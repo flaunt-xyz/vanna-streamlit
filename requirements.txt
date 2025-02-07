@@ -1,3 +1,4 @@
-vanna
+vanna[openai,bigquery]
 streamlit
 python-dotenv
+db-dtypes
