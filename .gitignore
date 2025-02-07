@@ -162,3 +162,5 @@ cython_debug/
 .DS_Store
 
 .streamlit/secrets.toml
+
+bigquery_credentials.json
